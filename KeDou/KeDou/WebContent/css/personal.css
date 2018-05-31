@@ -1,0 +1,823 @@
+#one{            
+	position:absolute;                     
+	top:30%;            
+	left:50%;  
+	width:400px;            
+	height:600px;            
+	margin-top:-130px;           
+	margin-left:-180px;           
+	background:#FFFFE0; 
+	border-radius:25px;
+	}
+#two_ifr{            
+      
+	width:400px;            
+	height:600px; 
+	border-radius:25px;           
+	background-color:;
+	}
+#three_ifr{                    
+	width:355px;            
+	height:50px;            
+	}
+#four_ifr{                  
+	width:400px;            
+	height:600px; 
+	border-radius:25px;           
+	background-color:;
+	}	
+#input{
+	width:300px; 
+	height:270px; 
+	margin-top:30px; 
+	margin-left:40px; 
+	background-color:;  
+}
+
+#input_size{
+	width:300px;
+	height:40px;
+	font-size: 20px;
+	color:#C5C1AA;
+}
+#input_size1{
+	width:150px;
+	height:40px;
+	font-size: 20px;
+	color:#C5C1AA;
+		
+}
+#span_position{
+	width:100px;
+	height:40px;
+	margin-left:30px;
+	display: inline-block;
+	vertical-align: middle;
+		
+}
+#input_size2{
+	width:300px;
+	height:50px;
+	background-color:;  	
+}
+.input_position{
+	width:300px;
+	height:40px;
+	margin-top: 40px;
+	font-size: 18px;
+	font-weight:bold;
+	color:#FFFFE0;
+	border-radius:10px;
+	margin-left:0px;
+	background-color:#1E90FF;  
+}
+#fond_size{
+	width:150px;
+	height:35px;
+	font-size: 15px;
+}
+
+#fond_style{
+	width:150px;
+	height:35px;
+	margin-top:20px;
+	margin-left:200px;
+	font-size: 17px;
+	color:#8B8970;
+	font-family: SimSun;
+}
+a{
+	color:#1C86EE;
+}
+#fond_style2{
+	width:280px;
+	margin-top:-80px;
+	margin-left:100px;
+	font-size: 18px;
+	font-weight:bold;
+	font-family: SimSun; 
+}
+#qq_position{
+	margin-top:80px:
+	margin-left:200px;
+}
+
+
+/*个人中心css*/
+#person_banner{
+	width: 100%;
+	height:80px;
+	margin-top:-20px;
+	background-color:#8F8F8F; 
+}
+.main_left{
+	height: 600px;
+	width: 220px;
+	position:relative;                                    
+	left:5%; 
+	background-color: #FAFAFA;
+}
+.main_right{
+	height: 650px;
+	width: 1000px;
+	position:relative;     
+	left:8%;                          
+	z-index:999;
+}
+.main_message{
+	height: 650px;
+	width: 1000px;
+	position:absolute;                     
+	top:2%;            
+	z-index:999;
+}
+.image{
+	width: 100px;
+	height: 100px;
+	margin-left: 60px;
+	border-radius:50px 50px 50px 50px;
+	background-color: #FAFAFA;
+	margin-top: 30px;
+}
+.image img{
+	border-radius:50%; 
+}
+.image_change{
+	position: relative;
+	width: 100px;
+	height: 100px;
+	margin-top: -100px;
+	margin-left: 60px;
+	border-radius:50px 50px 50px 50px;
+	background-color: red;
+	 z-index:999;
+	 display:none ;
+}
+.image_change img{
+	border-radius:50%;
+	opacity:0.8;
+	cursor:pointer ;
+}
+.image_text{
+	width: 70px;
+	height:28px;
+	position:absolute;                     
+	top:10%;            
+	left:35%;
+	background-color: ;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	color:white;
+	cursor:pointer ;
+}
+.username{
+	width: 200px;
+	height: 30px;
+	margin-top: 15px;
+	font-family: "微软雅黑";
+	font-size: 19px;
+	color: black;
+	text-align: center;
+}
+.username_mananger{
+	width: 180px;
+	height: 30px;
+	margin-top: 25px;
+	margin-left: 20px;
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+}
+.usermessage1{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	background-color: #FAFAFA;
+	cursor:pointer ;
+}
+.usermessage2{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	background-color: #FAFAFA;
+	cursor:pointer ;
+}
+.usermessage3{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	background-color: #FAFAFA;
+	cursor:pointer ;
+}
+.usermessage4{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	background-color: #FAFAFA;
+	cursor:pointer ;
+}
+.usermessage5{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	background-color: #FAFAFA;
+	cursor:pointer ;
+}
+.usermessage5:hover{
+	color:red;
+}
+.usermessage0{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	background-color: #FAFAFA;
+	cursor:pointer ;
+}
+.usermessage11{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	color:red;
+	background-color: #FAFAFA;
+	cursor:pointer ;
+	
+}
+	
+.usermessage111{
+	width: 220px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+	color:white;
+	background-color:red;
+	cursor:pointer ;
+}
+.li{
+	list-style-type:none;
+}
+
+/*preson-message的css */
+.body{
+	height: 600px;
+	width: 1000px; 
+	background-color: ;
+}
+.text{
+	width: 90px;
+	height:28px;
+	color: black;
+	margin-left: 50px;
+	margin-top: 20px;
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: bolder;
+	background-color: ;
+}
+.person_name{
+	width:800px;
+	height:60px;
+	margin-top: 20px;
+	margin-left: 50px;
+	background-color: white;
+
+	border-color:#9C9C9C;
+}
+.name_left{
+	width: 100px;
+	height: 60px;
+	float: left;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	font-weight: bolder;
+	text-align: center;
+	line-height:60px;
+	background-color: #FAFAFA;
+}
+.name_right{
+	width: 650px;
+	height: 60px;
+	float: left;
+	font-family: "微软雅黑";
+	font-size: 16px;	
+	margin-left: 20px;
+	line-height:60px;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+}
+.hr{
+	height:2px;
+	border:none;
+	border-top:2px ridge  #9C9C9C;
+}
+#myPopup{
+	width: 500px;
+	height: 100px;
+}
+#mask{
+	background:black ;
+	opacity: 0.65;
+	height: 500px;
+	width: 1500px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1000;
+}
+#messagechange{
+	height:500px;
+	width:500px;
+	position: fixed;
+	left: 30%;
+	top:30%;
+	z-index: 1001;
+}
+#message{
+	width: 500px;
+	height: 500px;
+	background-color:white ;	
+	border-radius:20px 20px 20px 20px;
+}
+#close{
+	width: 24px;
+	height: 23px;
+	font-size: 40px;
+	text-align: center;
+	line-height:22px;
+	font-weight: bold;
+	color:black;
+	background-color: ;
+	cursor: pointer;
+	position: absolute;
+	right: 25px;
+	top:25px;
+}
+#close:hover{
+	color:DarkGray;
+}
+#buton{
+	width: 100px;
+	height: 60px;
+	cursor: pointer;
+	background-color: yellow;
+}
+.buton1{
+	width: 70px;
+	height: 22px;
+	float:left;
+	position: absolute;
+	right:2%;
+	top:2%;
+	color:black;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-align: center;
+	cursor: pointer;
+	border-width: 1px 1px 1px 1px ;
+	border-style: solid;
+	border-radius:10px 10px 10px 10px;
+	display: block;
+	z-index: 1000;
+}
+.change_meg{
+	width: 130px;
+	height: 30px;
+	margin-left: 25px;
+	position:relative;
+	top:30px;
+	font-family:YouYuan;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #000000;
+}
+.user_name{
+	width: 400px;
+	height: 50px;
+	position:relative;
+	top:70px;
+	left:58px;
+}
+.user_name1{
+	width: 50px;
+	height:40px;
+	line-height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	background-color: ;
+}
+.user_name2{
+	width: 300px;
+	height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;		
+	float: left;
+	margin-left: 10px;
+	border:0.5px solid;
+	border-radius:10px 10px 10px 10px;
+	background-color: ;
+}
+.user_name3{
+	width: 350px;
+	height:40px;
+	float: left;
+}
+.button0{
+	width: 240px;
+	height:40px;
+	position:relative;
+	top:70px;
+	left:140px;
+}
+.button1{
+	width: 70px;
+	height:40px;
+	float: left;
+	text-align: center;
+	line-height:36px;
+	font-family: YouYuan;
+	font-size: 16px;
+	background-color:;
+	cursor: pointer;
+	border:1px solid #c8cccf;
+	border-radius:30px 30px 30px 30px;
+}
+.button2{
+	width: 70px;
+	height:40px;
+	margin-left: 100px;
+	float: left;
+	text-align: center;
+	line-height:36px;
+	font-family: YouYuan;
+	font-size: 16px;
+	background-color: ;
+	cursor: pointer;
+	border:1px solid #c8cccf;
+	border-radius:30px 30px 30px 30px;
+}
+.button2:hover{
+	background-color: deepskyblue;
+}
+.button1:hover{
+	background-color: deepskyblue;
+}
+.user_gender{
+	width: 400px;
+	height: 50px;
+	position:relative;
+	top:70px;
+	left:58px;
+}
+.user_gender1{
+	width: 50px;
+	height:40px;
+	float: left;
+	line-height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	background-color:;
+}
+
+.user_gender2{
+	width: 50px;
+	height:40px;
+	margin-left: 10px;
+	margin-top: px;
+	line-height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	background-color: ;
+}
+.user_address{
+	width: 400px;
+	height: 50px;
+	position:relative;
+	top:70px;
+	left:58px;
+}
+.user_address1{
+	width: 50px;
+	height:40px;
+	float: left;
+	line-height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	background-color:;
+}
+.user_address2{
+	width: 50px;
+	height:40px;
+	margin-left: 20px;
+	margin-top: px;
+	line-height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	background-color: ;
+}
+.textarea{
+	width: 400px;
+	height:200px;
+	position:relative;
+	top:70px;
+	left:25px;
+}
+.textarea1{
+	width: :;px;
+	height:40px;  
+	float: left;
+	text-align: center;
+	line-height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	background-color::;;
+}
+.textarea2{
+	width: 200px;
+	height:100px;
+	margin-left: 0px;
+	margin-top: 0px;
+	line-height:40px;
+	font-family: YouYuan;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	background-color: ;
+}
+.textarea3{
+	border:1px solid #c8cccf;
+	border-radius:10px 10px 10px 10px;
+}
+a{
+	color:black;
+}
+
+/*更换头像*/
+.file {
+    position: relative;
+    display: inline-block;
+    background: #D0EEFF;
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #1E88C7;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 20px;
+}
+.file input {
+    position: absolute;
+    width:55px;
+    height:14px;
+    font-size: 100px;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+.file:hover {
+    background: #AADFFD;
+    border-color: #78C3F3;
+    color: #004974;
+    text-decoration: none;
+}
+
+.previewImg{
+	width: 230px;
+	height: 230px;
+	position:relative;
+	top:70px;
+	left:130px;
+	border-radius:50%;
+	overflow:hidden;
+}
+.inputFile {
+	width: 100px;
+	height: 30px;
+	position:relative;
+	top:120px;
+	left:150px;
+}
+.changeImageSubmit {
+	width: 100px;
+	height: 30px;
+	position:relative;
+	top:90px;
+	left:300px;
+}
+/*访问历史*/
+.list{
+	width: 850px;
+	height: 50px;
+	margin-top: 20px;
+	background-color: gainsboro;
+	border-collapse:collapse;
+}
+.listt{
+	width: 850px;
+	height: 30px;
+	margin-top: 20px;
+	margin: 14px;
+	background-color: gainsboro;
+	border-collapse:collapse;
+	border-radius:10px 10px 10px 10px;
+}
+.list1{
+
+	margin-top: 0px;
+	width: 100px;
+	height: 50px;
+	float: left;
+	text-align: center;
+	line-height:50px;
+	font-family: YouYuan;
+	border: 1px solid;
+}
+.list2{
+	margin-top: 0px;
+	width: 200px;
+	height: 50px;
+	float: left;
+	text-align: center;
+	line-height:180%;
+	line-height:50px;
+	font-family: YouYuan;
+	border: 1px solid;
+}
+.list3{
+
+	margin-top: 0px;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	line-height:180%;
+	font-family: YouYuan;
+	font-size: 16px;
+	color:white ;
+	float: left;
+	border: 1px solid;
+}
+.list4{
+	margin-top: 0px;
+	width: 200px;
+	height: 30px;
+	text-align: center;
+	line-height:180%;
+	font-family: YouYuan;
+	font-size: 16px;
+	color:white ;
+	float: left;
+	border: 1px solid;
+}
+#mydiv p:hover{
+	background-color: gray;
+
+	transform:scale(1.05);
+}
+.tr-th1{
+	width: 150px;
+	height: 30px;
+	font-family:YouYuan;
+	color: grey;
+	text-align:center;
+	background-color: gainsboro;
+	display:table-cell; 
+
+}
+.tr-th2{
+	width: 50px;
+	height: 30px;
+	font-family:YouYuan;
+	color: grey;
+	text-align:center;
+	background-color: gainsboro;
+	display:table-cell; 
+}
+.tr-th3{
+	width: 50px;
+	height: 30px;
+	font-family:YouYuan;
+	color: grey;
+	text-align:center;
+	background-color: gainsboro;
+}
+input[type="checkbox"]{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  -webkit-appearance: none; 
+  -moz-appearance: none; 
+  appearance: none; 
+  background: #fff;
+  border-radius: 3px;
+  border: 1px solid #888;
+}
+input[type="checkbox"]:checked{
+  background:url("../img/bogo.jpg") no-repeat;
+  background-size: 100% 100%;
+  border: 1px solid #888;
+}
+.tr-td{
+	width: 150px;
+	height: 100px;
+	text-align:center;
+}
+.tr-td1{
+	width: 50px;
+	height: 100px;
+	text-align:center;
+	cursor: pointer;
+}
+.check{
+	width: 50px;
+	height: 100px;
+	text-align:center;
+	cursor: pointer;
+
+}
+.delete{
+	width: 50px;
+	height: 100px;
+	text-align:center;
+	display: table-cell;
+    vertical-align: middle;
+	cursor: pointer
+}
+table  tr:hover{
+	background-color: lightcyan;
+}
+table .test td:hover{
+	background-color: white;
+	border:1px solid white;
+	border-right: 2px inset;
+	border-bottom: 2px inset;
+	border-left: 2px inset;
+	border-top: 2px inset;
+	cursor: pointer;
+}
+.test{
+		dispaly:block;
+}
+.test th:hover{
+	color:red;
+	background-color: white;
+	cursor: pointer;
+
+}
+table tr a{
+	text-docoration:none;
+	color:grey;
+}
+table tr a:hover{
+	text-docoration:none;
+	color:red;
+}
+.page{
+	width:80%;
+	height:60px;
+	float:left;
+	text-align:center;
+	line-height:50px;
+	background-color:;
+}
+.tbutton{
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	z-index: 9999;
+}
